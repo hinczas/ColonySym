@@ -1,0 +1,5 @@
+D:\Projects\App3\SymClient\bin\Debug\SymClient.exe.config
+D:\Projects\App3\SymClient\bin\Debug\SymClient.exe
+D:\Projects\App3\SymClient\bin\Debug\SymClient.pdb
+D:\Projects\App3\SymClient\obj\Debug\SymClient.exe
+D:\Projects\App3\SymClient\obj\Debug\SymClient.pdb

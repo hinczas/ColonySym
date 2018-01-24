@@ -1,0 +1,9 @@
+D:\Projects\App3\App3\bin\Debug\WSym.exe.config
+D:\Projects\App3\App3\bin\Debug\WSym.exe
+D:\Projects\App3\App3\bin\Debug\WSym.pdb
+D:\Projects\App3\App3\bin\Debug\MySql.Data.dll
+D:\Projects\App3\App3\obj\Debug\ColonySym.Form1.resources
+D:\Projects\App3\App3\obj\Debug\ColonySym.Properties.Resources.resources
+D:\Projects\App3\App3\obj\Debug\App3.csproj.GenerateResource.Cache
+D:\Projects\App3\App3\obj\Debug\WSym.exe
+D:\Projects\App3\App3\obj\Debug\WSym.pdb

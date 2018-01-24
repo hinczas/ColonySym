@@ -1,0 +1,5 @@
+D:\Projects\App3\SymServer\bin\Debug\SymServer.exe.config
+D:\Projects\App3\SymServer\bin\Debug\SymServer.exe
+D:\Projects\App3\SymServer\bin\Debug\SymServer.pdb
+D:\Projects\App3\SymServer\obj\Debug\SymServer.exe
+D:\Projects\App3\SymServer\obj\Debug\SymServer.pdb

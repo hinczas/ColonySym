@@ -1,0 +1,4 @@
+D:\Projects\App3\ExtraUtils\bin\Debug\ExtraUtils.dll
+D:\Projects\App3\ExtraUtils\bin\Debug\ExtraUtils.pdb
+D:\Projects\App3\ExtraUtils\obj\Debug\ExtraUtils.dll
+D:\Projects\App3\ExtraUtils\obj\Debug\ExtraUtils.pdb
